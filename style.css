@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+:root {
+  --font01: 'Outfit', sans-serif;
+  --font02: 'Young Serif', serif;
+
+  --cor01: hsl(0, 0%, 100%);
+
+  --cor02: hsl(30, 54%, 90%);
+  --cor03: hsl(30, 18%, 87%);
+  --cor04: hsl(30, 10%, 34%);
+  --cor05: hsl(24, 5%, 18%);
+
+  --cor06: hsl(14, 45%, 36%);
+
+  --cor07: hsl(332, 51%, 32%);
+  --cor08: hsl(330, 100%, 98%);
+}
