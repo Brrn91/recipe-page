@@ -18,3 +18,7 @@
   --cor07: hsl(332, 51%, 32%);
   --cor08: hsl(330, 100%, 98%);
 }
+
+body {
+  background-color: var(--cor02);
+}
