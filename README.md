@@ -9,7 +9,7 @@ Projeto desenvolvido para treino de **HTML e CSS**, focando em **semântica, res
 
 ![Screenshot do Projeto](preview.jpg)  
 
-👉 [Acesse o projeto online](https://seuusuario.github.io/pagina-de-receitas/)  
+👉 [Acesse o projeto online](https://brrn91.github.io/recipe-page/)  
 
 ---
 
